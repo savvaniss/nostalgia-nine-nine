@@ -1,0 +1,11 @@
+{
+  "name": "nostalgia-nine-nine",
+  "version": "1.0.0",
+  "description": "Blockchain implementation based on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
